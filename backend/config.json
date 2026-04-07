@@ -3,7 +3,7 @@
     "host": "localhost",
     "port": 3306,
     "user": "root",
-    "password": "MY_MYSQL_PASSWORD",
+    "password": "Lhtu110504*",
     "database": "role_based_app"
   },
   "jwtSecret": "my-secret-is-my-secret-only"
